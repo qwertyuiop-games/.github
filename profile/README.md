@@ -8,7 +8,7 @@ We are a open source project that uses the GPL v3 license to create game creatio
 
 ### Our own games
 
-We also make our own games that are accesible through our [launcher](https://qwertyuiop-games.github.io/launcher/).
+We also make our own games that are accesible through our [launcher]("https://qwertyuiop-games.github.io/launcher/").
 
 ## Our projects
 
