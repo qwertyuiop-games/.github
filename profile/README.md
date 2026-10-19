@@ -4,7 +4,7 @@
 
 ### We ❤️ open source
 
-We are a <small>mostly</small> open source project that uses the GPL v3 license to create game creation software.
+We are a open source project that uses the GPL v3 license to create game creation software.
 
 ### Our own games
 
