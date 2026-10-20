@@ -14,19 +14,19 @@ We also make our own games that are accesible through our [launcher](https://qwe
 
 ### Our tools
 
-#### [A game launcher](https:/qwertyuiop-games.github.io/launcher/)
+#### [A Game Launcher](https:/qwertyuiop-games.github.io/launcher/)
 
 A website where we share *our own* games so you don't need to download **anything!**
-#### [A sound effect library](https://qwertyuiop-games.github.io/sfx-lib/)
+#### [A Sound Effect Library](https://qwertyuiop-games.github.io/sfx-lib/)
 
 A *tiny* but usefull sound effect library where all sfx can be used commercially.
 
-#### [A project generator](https://github.com/qwertyuiop-games/project-gen/)
+#### [A Project Generator](https://github.com/qwertyuiop-games/project-gen/)
 
 A script for MacOS, Linux and Windows that generates a project; we use this structure for our own games.
 
 ### Our games
 
-#### [Find the password](https://qwertyuiop-games.github/find-the-pwd/)
+#### [Find the Password](https://qwertyuiop-games.github/find-the-pwd/)
 
 In this game you need to find a password hidden in a *big* website.
