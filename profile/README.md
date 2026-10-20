@@ -12,10 +12,14 @@ We also make our own games that are accesible through our [launcher](https://qwe
 
 ## Our projects
 
-### [A game launcher](https:/qwertyuiop-games.github.iolauncher/)
+### [A game launcher](https:/qwertyuiop-games.github.io/launcher/)
 
 A website where we share our own games so you don't need to download **anything!**
 
-### [A project generator](https://github.com/qwertyuiop-games/project-gen)
+### [A sound effect library](https://qwertyuiop-games.github.io/sfx-lib/)
+
+A *tiny* but usefull sound effect library where all sfx can be used commercially.
+
+### [A project generator](https://github.com/qwertyuiop-games/project-gen/)
 
 A script for MacOS, Linux and Windows that generates a project; we use this structure for our own games.
