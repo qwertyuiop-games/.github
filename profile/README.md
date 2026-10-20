@@ -14,7 +14,7 @@ We also make our own games that are accesible through our [launcher](https://qwe
 
 ### Our tools
 
-#### [A Game Launcher](https:/qwertyuiop-games.github.io/launcher/)
+#### [A Game Launcher](https://qwertyuiop-games.github.io/launcher/)
 
 A website where we share *our own* games so you don't need to download **anything!**
 #### [A Sound Effect Library](https://qwertyuiop-games.github.io/sfx-lib/)
